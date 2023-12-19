@@ -9,6 +9,7 @@ const Form = () => {
 
             <label htmlFor='userName' >email</label>
             <input type="email" id='email' name="email"/>
+            
 
             <label htmlFor='userName' >User Name</label>
             <input type="text" id='channel' name="channel"/>
